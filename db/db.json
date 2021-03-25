@@ -1,0 +1,24 @@
+{
+  "login":[
+    {
+      "name": "Safi",
+      "password": "1234"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "piza",
+      "email": "piz@gmail.com",
+      "rating": "5",
+      "address": "ssss",
+      "id": 2
+    },
+    {
+      "name": "Shen Ghar",
+      "email": "shen@gmail.com",
+      "rating": "3",
+      "address": "Hangu",
+      "id": 4
+    }
+  ]
+}
